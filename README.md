@@ -1,4 +1,4 @@
-# Evaluation-of-Pedestrian-Behavior-in-Virtual-Reality-for-Traffic-Education-Using-Eye-Tracking
+# Thesis
 Evaluation of  Pedestrian Behavior in Virtual Reality for Traffic Education Using Eye Tracking
 
 In this research, I made a a demo-game of a pedestrian moving around a city center using the Unity Game Engine.
